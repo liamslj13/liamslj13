@@ -1,11 +1,9 @@
 # Hi there 👋, I'm Liam!
 
 ## About Me
-I am a Computer Science and Mathematics student at Saint Mary's University in Nova Scotia, Canada. I enjoy looking into the architecture of programming languages, and recently have been diving deeper into topics such as operating systems, computational geometry, and competition maths. Occasionally I also create animations using the math animation engine ***Manim***. I will upload them to a public repository once I have enough compiled into a manageable folder.
+I am a Computer Science and Mathematics double major at Saint Mary's University in Nova Scotia, Canada. I enjoy looking into the architecture of programming languages, and recently have been diving deeper into topics such as computational geometry, and competition maths/programming. Occasionally I also create animations using the math animation engine ***Manim***. I will upload them to a public repository once I have enough compiled into a manageable folder.
 <br /><br />
-My friends and I are currently building a few projects together. We are working on creating games for release on Roblox using Lua, and for release on other platforms with the Godot 4 engine and GDScript. 
-<br /><br />
-I also enjoy natural languages and language acquisition. Earlier this year, I had the opportunity to represent my university nationally at a competition for speakers of Japanese as a foreign language. I am currently an exchange student on a year abroad to Japan at Hiroshima University! Feel free to reach out to me via email [here (school)](liam.jay@smu.ca), or [here (business)](liamslj13@gmail.com), I would love to hear from you.
+I also enjoy natural languages and language acquisition. Earlier this year, I had the opportunity to represent my university nationally at a competition for speakers of Japanese as a foreign language. I am currently an exchange student on a year abroad to Japan at Hiroshima University studying Data Science! Feel free to reach out to me via email [here (school)](liam.jay@smu.ca), or [here (business)](liamslj13@gmail.com), I would love to hear from you.
 ## Tools I use
 ### Main Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
