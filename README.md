@@ -1,10 +1,4 @@
 # Hi there 👋, I'm Liam!
-
-## About Me
-I am a Computer Science and Mathematics double major at Saint Mary's University in Nova Scotia, Canada. I enjoy looking into the architecture of programming languages, and recently have been diving deeper into topics such as computational geometry, and competition maths/programming. Occasionally I also create animations using the math animation engine ***Manim***. I will upload them to a public repository once I have enough compiled into a manageable folder.
-<br /><br />
-I also enjoy natural languages and language acquisition. Earlier this year, I had the opportunity to represent my university nationally at a competition for speakers of Japanese as a foreign language. I am currently an exchange student on a year abroad to Japan at Hiroshima University studying Data Science! Feel free to reach out to me via email [here (school)](liam.jay@smu.ca), or [here (business)](liamslj13@gmail.com), I would love to hear from you.
-## Tools I use
 ### Main Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -12,7 +6,6 @@ I also enjoy natural languages and language acquisition. Earlier this year, I ha
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-3A56A4?style=for-the-badge&logo=godot&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![MacTeX](https://img.shields.io/badge/MacTeX-0078D7?style=for-the-badge&logo=apple&logoColor=white)
 ### Version Control and Libraries
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
