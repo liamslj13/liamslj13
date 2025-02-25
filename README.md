@@ -55,6 +55,9 @@
 
 ### Connect with Me Below!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liam-jay-118838286/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231C90F3.svg?&style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kamukamo)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/liamsl13/)
+
 
 
 ## My Statistics
