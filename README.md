@@ -5,7 +5,7 @@
 
 ## 🏝️ About Me
 
-Hi, I'm Liam 👋 I've recently been very interested in systems programming, and more specifically compilers! In my free time you can catch me reading, studying foreign languages, or playing Animal Crossing on my DS Lite.
+Hi, I'm Liam 👋 I've recently been very interested in systems programming, and more specifically compilers! In my free time you can catch me reading, studying foreign languages, or playing somekind of video game (recently おいでよどうぶつの森). I love meeting new people with similar interests, so feel free to reach out!
 
 ## 🌱 Main Languages
 <p align="center">
@@ -41,7 +41,7 @@ Hi, I'm Liam 👋 I've recently been very interested in systems programming, and
 ## 🏕️ Current Projects
 
 - 🌊 Building a compiler for Cobalt (programming language, unreleased)
-- 🐟 Building JIT compilers for basic syntax (unreleased)
+- 🐟 Custom language transpiler to Q#
 - 🍎 Contributing to open source systems projects
 
 ## 🏡 Connect With Me
