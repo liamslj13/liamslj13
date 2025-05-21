@@ -3,11 +3,11 @@
   <br>
 </p>
 
-## 🏝️ About Me
+##  About Me
 
-Hi, I'm Liam 👋 I've recently been very interested in systems programming, and more specifically compilers! In my free time you can catch me reading, studying foreign languages, or playing somekind of video game (recently おいでよどうぶつの森). I love meeting new people with similar interests, so feel free to reach out!
+Hi, I'm Liam 👋 I've recently been very interested in systems programming, and more specifically compilers! In my free time you can catch me reading, studying foreign languages, or playing of video games (recently animal crossing and mariokart!). I love meeting new people with similar interests, so feel free to reach out!
 
-## 🌱 Main Languages
+## Main Languages
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40">&nbsp;
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="40">&nbsp;
@@ -15,13 +15,13 @@ Hi, I'm Liam 👋 I've recently been very interested in systems programming, and
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="40">
 </p>
 
-## 📚 Currently Learning
+## Currently Learning
 <p align="center">
   <img src="https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white" height="40">&nbsp;
   <img src="https://img.shields.io/badge/MLIR-A82D2D?style=for-the-badge&logoColor=white" height="40">
 </p>
 
-## 🍃 Repository Stats
+## Repository Stats
 
 <table align="center" border="0">
 <tr>
@@ -38,13 +38,7 @@ Hi, I'm Liam 👋 I've recently been very interested in systems programming, and
 </tr>
 </table>
 
-## 🏕️ Current Projects
-
-- 🌊 Building a compiler for Cobalt (programming language, unreleased)
-- 🐟 Custom language transpiler to Q#
-- 🍎 Contributing to open source systems projects
-
-## 🏡 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/liamjay05">
