@@ -5,7 +5,9 @@
 
 ##  About Me
 
-Hi, I'm Liam 👋 I've recently been very interested in systems programming, and more specifically compilers! In my free time you can catch me reading, studying foreign languages, or playing of video games (recently animal crossing and mariokart!). I love meeting new people with similar interests, so feel free to reach out!
+Looking into compiler implementation, optimization, intermediate representation, and other systems programming topics. Also interested in competitive programming. Feel free to reach out, I would love to get in touch!
+<br><br>
+To learn more about me, checkout my homepage [here](https://liamslj13.github.io/)!
 
 ## Main Languages
 <p align="center">
