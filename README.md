@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Welcome to Liam’s Profile 👋</strong>
+  <strong>Welcome to my profile 👋</strong>
 </p>
 
 ## About Me
